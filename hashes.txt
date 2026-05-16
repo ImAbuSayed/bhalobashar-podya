@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhalobashar Podya
+
+This log tracks the cryptographic history and versioning for the song **Bhalobashar Podya** (bhalobashar-podya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T09:16:24.100140 | `v1` | `e7ffa8be5e76164d54a8434146c43015ae4ac335d457d09093917157137faf97` | `8f5325e0dadf246c634be0a0e5b3dfe415ff16bfd17c3bd5e82e368ef9d40217` | `2026-05-16_bhalobashar-podya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
